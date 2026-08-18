@@ -1,4 +1,4 @@
-# AI Fashion E-commerce (Stage 4 - Integration Completed)
+# AI Fashion E-commerce 
 
 Dự án Thương mại điện tử thời trang tích hợp AI, sử dụng kiến trúc Monorepo để kết hợp sức mạnh của MedusaJS (E-commerce Core), Next.js (Frontend) và FastAPI (AI Services).
 
